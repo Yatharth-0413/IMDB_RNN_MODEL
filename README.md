@@ -96,6 +96,5 @@ See `requirements.txt` for full list.
 
 ---
 
-## 📜 License
+![image](https://github.com/user-attachments/assets/72b962d8-d414-402b-9ad5-910920fc923f)
 
-MIT License © [Your Name]
